@@ -1,4 +1,4 @@
-# README
+# New Buddy App
 
 This project was created by a team of three during a 5 hour hackathon during our coding bootcamp at Flatiron School. The prompt was to create a app that would access a backend Rails API and display a frontend built through React, with the theme of "Buddy". Our team immediately thought about furry buddies, and decided to build an app where we could display adoptable animals in order for the user to find a new buddy!
 
