@@ -12,5 +12,7 @@ https://github.com/christopher-tero/new-buddies-app-frontEnd
 
 Development Team:
 Christopher Tero - Frontend Lead Developer
+
 Christy Inman - Backend Developer and Frontend assistance
+
 Dustin Keyes - Backend Developer
