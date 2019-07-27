@@ -17,7 +17,7 @@ Christopher Tero - Frontend Lead Developer
   https://github.com/christopher-tero
 
 Christy Inman - Backend Developer and Frontend assistance
-  https://github.com/christyinman
+  https://github.com/christy-inman
 
 Dustin Keyes - Backend Developer
   https://github.com/foggybrains
